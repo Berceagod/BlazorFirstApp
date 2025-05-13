@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mihne\\Documents\\GitHub\\BlazorFirstApp\\MDS\\NuclearDataManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3098C-252E-40C0-93AF-D71FF238486D}|NuclearDataManager\\NuclearDataManager.csproj|c:\\users\\mihne\\documents\\github\\blazorfirstapp\\mds\\nucleardatamanager\\nucleardatamanager\\views\\form\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25E3098C-252E-40C0-93AF-D71FF238486D}|NuclearDataManager\\NuclearDataManager.csproj|solutionrelative:nucleardatamanager\\views\\form\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3098C-252E-40C0-93AF-D71FF238486D}|NuclearDataManager\\NuclearDataManager.csproj|c:\\users\\mihne\\documents\\github\\blazorfirstapp\\mds\\nucleardatamanager\\nucleardatamanager\\models\\researchsubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E3098C-252E-40C0-93AF-D71FF238486D}|NuclearDataManager\\NuclearDataManager.csproj|solutionrelative:nucleardatamanager\\models\\researchsubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mihne\\AppData\\Local\\Temp\\knovmqj0..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3098C-252E-40C0-93AF-D71FF238486D}|NuclearDataManager\\NuclearDataManager.csproj|c:\\users\\mihne\\documents\\github\\blazorfirstapp\\mds\\nucleardatamanager\\nucleardatamanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25E3098C-252E-40C0-93AF-D71FF238486D}|NuclearDataManager\\NuclearDataManager.csproj|solutionrelative:nucleardatamanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3098C-252E-40C0-93AF-D71FF238486D}|NuclearDataManager\\NuclearDataManager.csproj|c:\\users\\mihne\\documents\\github\\blazorfirstapp\\mds\\nucleardatamanager\\nucleardatamanager\\views\\form\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25E3098C-252E-40C0-93AF-D71FF238486D}|NuclearDataManager\\NuclearDataManager.csproj|solutionrelative:nucleardatamanager\\views\\form\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3098C-252E-40C0-93AF-D71FF238486D}|NuclearDataManager\\NuclearDataManager.csproj|c:\\users\\mihne\\documents\\github\\blazorfirstapp\\mds\\nucleardatamanager\\nucleardatamanager\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E3098C-252E-40C0-93AF-D71FF238486D}|NuclearDataManager\\NuclearDataManager.csproj|solutionrelative:nucleardatamanager\\controllers\\formcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mihne\\AppData\\Local\\Temp\\clc0pzjc..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3098C-252E-40C0-93AF-D71FF238486D}|NuclearDataManager\\NuclearDataManager.csproj|c:\\users\\mihne\\documents\\github\\blazorfirstapp\\mds\\nucleardatamanager\\nucleardatamanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E3098C-252E-40C0-93AF-D71FF238486D}|NuclearDataManager\\NuclearDataManager.csproj|solutionrelative:nucleardatamanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3098C-252E-40C0-93AF-D71FF238486D}|NuclearDataManager\\NuclearDataManager.csproj|c:\\users\\mihne\\documents\\github\\blazorfirstapp\\mds\\nucleardatamanager\\nucleardatamanager\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E3098C-252E-40C0-93AF-D71FF238486D}|NuclearDataManager\\NuclearDataManager.csproj|solutionrelative:nucleardatamanager\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mihne\\AppData\\Local\\Temp\\ckq52ds3..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E3098C-252E-40C0-93AF-D71FF238486D}|NuclearDataManager\\NuclearDataManager.csproj|c:\\users\\mihne\\documents\\github\\blazorfirstapp\\mds\\nucleardatamanager\\nucleardatamanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25E3098C-252E-40C0-93AF-D71FF238486D}|NuclearDataManager\\NuclearDataManager.csproj|solutionrelative:nucleardatamanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mihne\\AppData\\Local\\Temp\\ckq52ds3..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mihne\\AppData\\Local\\Temp\\ckq52ds3..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mihne\\AppData\\Local\\Temp\\clc0pzjc..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mihne\\AppData\\Local\\Temp\\clc0pzjc..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mihne\\AppData\\Local\\Temp\\knovmqj0..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mihne\\AppData\\Local\\Temp\\knovmqj0..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResearchSubmission.cs",
+              "DocumentMoniker": "C:\\Users\\mihne\\Documents\\GitHub\\BlazorFirstApp\\MDS\\NuclearDataManager\\NuclearDataManager\\Models\\ResearchSubmission.cs",
+              "RelativeDocumentMoniker": "NuclearDataManager\\Models\\ResearchSubmission.cs",
+              "ToolTip": "C:\\Users\\mihne\\Documents\\GitHub\\BlazorFirstApp\\MDS\\NuclearDataManager\\NuclearDataManager\\Models\\ResearchSubmission.cs",
+              "RelativeToolTip": "NuclearDataManager\\Models\\ResearchSubmission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:58:16.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormController.cs",
+              "DocumentMoniker": "C:\\Users\\mihne\\Documents\\GitHub\\BlazorFirstApp\\MDS\\NuclearDataManager\\NuclearDataManager\\Controllers\\FormController.cs",
+              "RelativeDocumentMoniker": "NuclearDataManager\\Controllers\\FormController.cs",
+              "ToolTip": "C:\\Users\\mihne\\Documents\\GitHub\\BlazorFirstApp\\MDS\\NuclearDataManager\\NuclearDataManager\\Controllers\\FormController.cs",
+              "RelativeToolTip": "NuclearDataManager\\Controllers\\FormController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:28:51.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mihne\\Documents\\GitHub\\BlazorFirstApp\\MDS\\NuclearDataManager\\NuclearDataManager\\appsettings.json",
+              "RelativeDocumentMoniker": "NuclearDataManager\\appsettings.json",
+              "ToolTip": "C:\\Users\\mihne\\Documents\\GitHub\\BlazorFirstApp\\MDS\\NuclearDataManager\\NuclearDataManager\\appsettings.json",
+              "RelativeToolTip": "NuclearDataManager\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T18:37:09.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\mihne\\Documents\\GitHub\\BlazorFirstApp\\MDS\\NuclearDataManager\\NuclearDataManager\\Views\\Form\\Success.cshtml",
+              "RelativeDocumentMoniker": "NuclearDataManager\\Views\\Form\\Success.cshtml",
+              "ToolTip": "C:\\Users\\mihne\\Documents\\GitHub\\BlazorFirstApp\\MDS\\NuclearDataManager\\NuclearDataManager\\Views\\Form\\Success.cshtml",
+              "RelativeToolTip": "NuclearDataManager\\Views\\Form\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T20:18:59.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SQLQuery3.sql ",
+              "DocumentMoniker": "C:\\Users\\mihne\\AppData\\Local\\Temp\\clc0pzjc..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\clc0pzjc..sql",
+              "ToolTip": "SQLQuery3.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-13T20:20:24.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form.cshtml",
+              "DocumentMoniker": "C:\\Users\\mihne\\Documents\\GitHub\\BlazorFirstApp\\MDS\\NuclearDataManager\\NuclearDataManager\\Views\\Form\\Form.cshtml",
+              "RelativeDocumentMoniker": "NuclearDataManager\\Views\\Form\\Form.cshtml",
+              "ToolTip": "C:\\Users\\mihne\\Documents\\GitHub\\BlazorFirstApp\\MDS\\NuclearDataManager\\NuclearDataManager\\Views\\Form\\Form.cshtml",
+              "RelativeToolTip": "NuclearDataManager\\Views\\Form\\Form.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T19:29:29.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLQuery4.sql ",
+              "DocumentMoniker": "C:\\Users\\mihne\\AppData\\Local\\Temp\\knovmqj0..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\knovmqj0..sql",
+              "ToolTip": "SQLQuery4.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-13T20:30:15.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mihne\\Documents\\GitHub\\BlazorFirstApp\\MDS\\NuclearDataManager\\NuclearDataManager\\Program.cs",
+              "RelativeDocumentMoniker": "NuclearDataManager\\Program.cs",
+              "ToolTip": "C:\\Users\\mihne\\Documents\\GitHub\\BlazorFirstApp\\MDS\\NuclearDataManager\\NuclearDataManager\\Program.cs",
+              "RelativeToolTip": "NuclearDataManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T18:51:25.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mihne\\Documents\\GitHub\\BlazorFirstApp\\MDS\\NuclearDataManager\\NuclearDataManager\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "NuclearDataManager\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mihne\\Documents\\GitHub\\BlazorFirstApp\\MDS\\NuclearDataManager\\NuclearDataManager\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "NuclearDataManager\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T18:51:31.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\mihne\\AppData\\Local\\Temp\\ckq52ds3..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\ckq52ds3..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-13T19:57:08.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mihne\\Documents\\GitHub\\BlazorFirstApp\\MDS\\NuclearDataManager\\NuclearDataManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NuclearDataManager\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mihne\\Documents\\GitHub\\BlazorFirstApp\\MDS\\NuclearDataManager\\NuclearDataManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NuclearDataManager\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T19:32:02.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
