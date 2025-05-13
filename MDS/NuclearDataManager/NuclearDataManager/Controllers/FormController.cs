@@ -1,10 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using NuclearDataManager.Data; // Ensure you reference your DbContext
 using NuclearDataManager.Models; // Ensure you reference your model
 using System.Threading.Tasks;
 
 namespace NuclearDataManager.Controllers
 {
+    [Authorize]
     public class FormController : Controller
     {
         private readonly ApplicationDbContext _context;

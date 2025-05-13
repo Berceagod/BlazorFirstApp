@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NuclearDataManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46d66ed1257d1e86ea0cbda28564bb62006c2bf7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ece31f2b19c70cdadfe31c4e7227cb5af330f2e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("NuclearDataManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NuclearDataManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
