@@ -5,6 +5,8 @@
         public int Id { get; set; }
         public float Temperature { get; set; }
         public DateTime DateSubmitted { get; set; } = DateTime.Now;
+
+        public string? UserEmail { get; set; }
     }
 
 }

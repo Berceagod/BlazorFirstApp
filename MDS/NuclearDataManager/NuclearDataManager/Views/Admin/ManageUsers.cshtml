@@ -1,0 +1,37 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model List<IdentityUser>
+
+<div class="container">
+    <h2>Manage Users</h2>
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+    }
+
+    <table class="table">
+    <table class="table table-bordered table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>Email</th>
+                <th>User ID</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model)
+            {
+                <tr>
+                    <td>@user.Email</td>
+                    <td>@user.Id</td>
+                    <td>
+                        <form asp-action="DeleteUser" method="post" class="d-inline">
+                            <input type="hidden" name="userEmail" value="@user.Email" />
+                            <button type="submit" class="btn btn-sm btn-danger">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+        </table>
+</div>

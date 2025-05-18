@@ -25,9 +25,21 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
+                        @if (User.Identity.IsAuthenticated)
+                        {
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Form" asp-action="Form">Submit a Form</a>
                         </li>
+                        }
+                        @if (User.IsInRole("Admin")) 
+                       {
+                            <li class="nav-item">
+                                <a class="nav-link" asp-controller="Admin" asp-action="Dashboard">Admin Panel</a>
+                            </li>
+                        }
+                        <p>Admin Status: @User.IsInRole("Admin")</p>
+
+
                     </ul>
                     <partial name="_LoginPartial" />
                 </div>
